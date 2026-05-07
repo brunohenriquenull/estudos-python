@@ -3,4 +3,4 @@ B = int(input())
 
 PROD = A * B
 
-print(f'PROD ={PROD}')
+print(f'PROD = {PROD}')
